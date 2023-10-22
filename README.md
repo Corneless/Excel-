@@ -1,1 +1,2 @@
 # Excel-
+In this Excel project, I focused on optimizing data for analysis and visualization. I began by setting up and cleaning the data, ensuring it was organized and error-free. Next, I created pivot tables to summarize and structure the data efficiently. To enhance usability, I designed a user-friendly dashboard, complete with filter buttons for interactive data exploration. This project streamlines data handling and provides an intuitive interface for making data-driven decisions.
